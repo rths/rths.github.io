@@ -1,7 +1,8 @@
 body {
-    background-color: yellow;
+    background-color: gold;
+    color: white;
+    font-family: Arial, sans-serif;
+	font-style: italic;
+
 }
 
-h1, p {
-    color: gold;
-}
