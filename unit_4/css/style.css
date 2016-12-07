@@ -5,7 +5,7 @@ body {
     color: #BFA155;
     font-family: 'Montserrat', sans-serif;
 	text-align: center;
-	font-size: 11px;
+	font-size: 16px;
 }
 
 h1 {
@@ -16,8 +16,18 @@ h1 {
 	text-transform: uppercase
 }
 
-p { background-color: white;
-    color: #BFA155;
+hr{
+	border: none;
+	height: 3px
+	background-color: #3C3C3C;
+	width:2em;
+	margin:2em auto;
+}
+
+p { 
+    font-size:1em;
+    width: 30em;
+    line-height: 1.5em;
 }
 
 ul,li {
@@ -26,10 +36,24 @@ ul,li {
 
 img {
 	width: 100%;
+	margin: 2em;
+}
+
+a:link {
+    color: #BFA155;
+}
+
+a:visited {
+    color: #1b1464;
 }
 
 #slogan {
-	font-style: bold-italic;
-	font-size: 16px;
-	padding: 10px;
+	font-style: italic;
+	width: 30em;
+	margin: auto;
+}
+
+.main{
+	width: 30em;
+	margin: auto;
 }
