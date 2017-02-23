@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee|Montserrat');
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+}
+
+aside {
+	background-color: #FFC675;
+	border: 1px black solid;
+}
+
+article {
+	background-color: #E89C6C;
+	border: 1px black solid;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+}
+
+#one {
+	background-color: #FFE2B8;
+}
+
+.picture {
+	padding: 50px;
+	border: 1px black solid;
+
+}
+
+.description {
+	padding: 50px;
+	border: 1px black solid;
+
+}
